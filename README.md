@@ -16,6 +16,3 @@ I learned the benefits of using a headless CMS, and how it can be useful when wo
 
 
 
-
-# portfolio-website
-# my-portfolio

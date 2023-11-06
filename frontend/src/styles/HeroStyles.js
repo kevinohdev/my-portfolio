@@ -20,7 +20,7 @@ const HeroStyles = styled.div`
   }
 
   h1 {
-    font-size: 12vw;
+    font-size: 10vw;
     font-weight: 900;
   }
 
