@@ -4,7 +4,7 @@ Portfolio website featuring selected projects.
 
 **Live Demo: https://kkodev.com**
 
-![Screen Shot](https://cdn.sanity.io/images/bryroqks/production/6d28737548ce7b5a13281e465faff0943e71f55e-1440x791.png?w=1440&h=791&auto=format)
+![Screen Shot](https://cdn.sanity.io/images/bryroqks/production/b0c5c2d7eef65ba5a8b3157bfc371a77f83e246c-1440x791.png?rect=1,0,1438,791&w=700&h=385&auto=format)
 
 ## Tech Stack
 ### Gatsby, Sanity, GraphQL
